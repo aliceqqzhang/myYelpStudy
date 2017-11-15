@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  MapViewController.h
 //  myYelpStudy
 //
-//  Created by CAO YUE on 5/30/17.
+//  Created by CAO YUE on 6/3/17.
 //  Copyright © 2017 ZHANG YUE. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MapViewController : UIViewController
 
 @end
-
